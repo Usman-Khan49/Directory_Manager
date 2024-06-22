@@ -25,7 +25,7 @@ This PyQt-based application simplifies the organization of directories by catego
 
 ### Directory Choosing
 
-![Choosing a Directory to Organize](Screenshot(43).png)
+![Screenshot (43)](https://github.com/Usman-Khan49/Directory_Manager/assets/128228334/1ad93c41-3d66-45d3-91d6-274937728fad)
 
 ### Directory After Organization
 

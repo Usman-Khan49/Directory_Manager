@@ -16,19 +16,19 @@ This PyQt-based application simplifies the organization of directories by catego
 
 ### Directory Before Organization
 
-
+![Unorganized Directory](file:///C:/Users/Usman/Desktop/Screenshot%20(41).png)
 
 ### Application Window
 
-
+![Application Window](file:///C:/Users/Usman/Desktop/Screenshot%20(42).png)
 
 ### Directory Choosing
 
-
+![Choosing a Directory to Organize](file:///C:/Users/Usman/Desktop/Screenshot%20(43).png)
 
 ### Directory After Organization
 
-
+![Directory After Organizing](file:///C:/Users/Usman/Desktop/Screenshot%20(44).png)
 
 ## Usage
 

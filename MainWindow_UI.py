@@ -1,7 +1,7 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-from PyQt5.QtWidgets import QFileDialog
-from PyQt5.uic import loadUi
+from PyQt5.QtWidgets import QFileDialog, QMessageBox
+
 import Directory_Management
 
 class Ui_Dialog(object):
@@ -68,8 +68,17 @@ class Ui_Dialog(object):
         print(f"Selected Directory: {directory_path}")
         if directory_path:
             Directory_Management.run(directory_path)
+            msg = QMessageBox()
+            msg.setWindowTitle('Successful')
+            msg.setText('Directory was Organized')
+            x = msg.exec_()
+
         else:
-            print("Invalid Error {directory_path}")
+            msg = QMessageBox()
+            msg.setWindowTitle('Invalid Error')
+            msg.setText('Directory was not Specified')
+            msg.setIcon(QMessageBox.Warning)
+            x = msg.exec_()
 
 
 if __name__ == "__main__":

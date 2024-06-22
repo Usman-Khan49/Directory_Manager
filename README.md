@@ -16,7 +16,8 @@ This PyQt-based application simplifies the organization of directories by catego
 
 ### Directory Before Organization
 
-![Unorganized Directory](Screenshot(41).png)
+![Unorganized Directory](https://github.com/Usman-Khan49/Directory_Manager/assets/128228334/50f41f2c-a280-4238-b7c0-8abcc478fec3)
+
 
 ### Application Window
 

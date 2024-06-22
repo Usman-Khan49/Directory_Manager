@@ -29,7 +29,7 @@ This PyQt-based application simplifies the organization of directories by catego
 
 ### Directory After Organization
 
-![Directory After Organizing](Screenshot(44).png)
+![Screenshot (44)](https://github.com/Usman-Khan49/Directory_Manager/assets/128228334/406e4645-c217-49dd-a53d-0d1b633a0c0a)
 
 ## Usage
 

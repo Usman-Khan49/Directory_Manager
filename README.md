@@ -10,7 +10,7 @@ This PyQt-based application simplifies the organization of directories by catego
 - **Directory Organization**: Allows users to choose a directory and automatically organizes files into categorized folders such as Images, Documents, Audio, Videos, etc.
 - **Customizable Settings**: Option to configure file categorization rules and preferences directly within the application.
 - **Before-and-After Visualization**: Provides visual feedback with screenshots of the directory structure before and after organization.
-- **Cross-platform**: Works seamlessly on Windows, macOS, and Linux operating systems.
+
 
 ## Screenshots
 

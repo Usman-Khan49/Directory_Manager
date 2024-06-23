@@ -1,7 +1,8 @@
 import os
 import pathlib
 import shutil
-
+from PyQt5.QtWidgets import QTreeWidgetItem
+from PyQt5.QtGui import QIcon
 
 
 

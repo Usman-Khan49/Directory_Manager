@@ -45,9 +45,6 @@ class Ui_Dialog(object):
         self.browse.clicked.connect(self.filebrowser)
         self.clear.clicked.connect(self.clearSelectedPath)
         self.organize.clicked.connect(self.OrganizeFiles)
-        
-        
-
         self.retranslateUi(Dialog)
         QtCore.QMetaObject.connectSlotsByName(Dialog)
 
@@ -72,17 +69,10 @@ class Ui_Dialog(object):
 
     def clearSelectedPath(self):
         self.lineEdit.clear()
-        
         self.model.beginResetModel()
         self.model.setRootPath("")
         self.Unorganized_DIR.setRootIndex(QtCore.QModelIndex())
-
         self.model.endResetModel()
-
-        
-
-        
-
 
     def OrganizeFiles(self):
         directory_path = self.lineEdit.text()

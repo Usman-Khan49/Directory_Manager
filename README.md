@@ -21,7 +21,7 @@ This PyQt-based application simplifies the organization of directories by catego
 
 ### Application Window
 
-![Screenshot (45)](https://github.com/Usman-Khan49/Directory_Manager/assets/128228334/6a1f4641-3ef1-4526-994d-0c9ba3fe5ad2)
+![Screenshot (45)](https://github.com/Usman-Khan49/Directory_Manager/assets/128228334/ee3b5215-47ee-42ea-adc3-440ff3752c65)
 
 ### Directory Choosing
 

@@ -2,7 +2,7 @@
 
 
 
-This PyQt-based application simplifies the organization of directories by categorizing files into appropriate folders based on their types. It offers an intuitive user interface for selecting the directory to organize and efficiently manages file sorting tasks.
+This is a PyQt-based application that simplifies the organization of directories by categorizing files into appropriate folders based on their types. It offers an intuitive user interface for selecting the directory to organize and efficiently manages file sorting tasks.
 
 ## Features
 
